@@ -1,0 +1,16 @@
+{
+  "name": "lodash-omit-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Michael Scholtz",
+  "license": "MIT",
+  "dependencies": {
+    "npm-install-version": "^5.1.0"
+  },
+  "private": true
+}
